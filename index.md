@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
 
-This is my homepage, yay!
+content: This is my homepage, yay!
 ---
 
